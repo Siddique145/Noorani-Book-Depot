@@ -700,6 +700,14 @@ body{
 .gmail a:hover img{
     height: 40px;
 }
+.youtube img{
+    height: 25px;
+    width: 100%;
+}
+.youtube a:hover img{
+    height: 40px;
+}
+
 @media only screen and (max-width:30em) {
     .home{
         width:100%;
